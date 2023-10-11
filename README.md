@@ -1,5 +1,5 @@
 # online-library-management-system
-I have designed an online library management system during the course of my Full Stack Web Development Internship under TCR Innovation.
+I have designed an online library management system during the course of my Full Stack Web Development Internship under TCR Innovation. Thank you to TCR Innovation for all the support and guidance throughout the internship.
 
 For Librarian Admin Panel:
 Username: adminac
@@ -18,4 +18,3 @@ python manage.py runserver
 ![image](https://github.com/annetthomas04/online-library-management-system/assets/147621719/755257fe-326e-4c49-ab92-d4a4b901c210)
 ![image](https://github.com/annetthomas04/online-library-management-system/assets/147621719/9ebec56f-24f1-44bc-ac5d-822c96afb460)
 
-Thank you to TCR Innovation for all the support and guidance throughout the internship.
