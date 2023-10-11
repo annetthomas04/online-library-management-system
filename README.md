@@ -5,6 +5,6 @@ For Librarian Admin Panel:
 Username: adminac
 Password: testing321
 
-For Student Loging:
+For Student Login:
 Username: annet04
 Password: testing123
