@@ -8,3 +8,6 @@ Password: testing321
 For Student Login:
 Username: annet04
 Password: testing123
+
+Open a New Terminal and input the following step to run project:
+python manage.py runserver
