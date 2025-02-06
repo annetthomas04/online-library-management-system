@@ -1,5 +1,5 @@
 # online-library-management-system
-I have designed an online library management system during the course of my Full Stack Web Development Internship under TCR Innovation. Thank you to TCR Innovation for all the support and guidance throughout the internship.
+This is an online library management system that I designed during my Full-Stack Web Development Internship at TCR Innovation. Thank you to TCR Innovation for all the support and guidance throughout this learning experience.
 
 For Librarian Admin Panel:
 Username: adminac
